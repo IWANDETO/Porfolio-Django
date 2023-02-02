@@ -18,7 +18,7 @@ body{
     list-style-type: none;
 } */
 .social{
-    width: 5vh;
+    width: 5vw;
     height: 5vh;
 }
 
@@ -51,7 +51,7 @@ u{
     text-align: center;
     font-size: 2vh;
     padding: 20px;
-    width: 25vh;
+    width: 25vw;
     height: 10vh;
     transition: all 0.5s;
     cursor: pointer;
